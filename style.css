@@ -1,0 +1,25 @@
+body{
+    color: #544029;
+    display: flex;
+   justify-content: center;
+   background-color: rgb(192, 171, 203);
+}
+.wrapper{
+    
+    margin-top: 150px;
+
+}
+.timer{
+    font-size: 40px;
+}
+.buttons{
+    width: 72px;
+    height: 35px;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 10px;
+}
+.buttons:hover{
+cursor: pointer;
+background-color: aquamarine;
+}
